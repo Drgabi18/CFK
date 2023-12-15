@@ -1,5 +1,6 @@
-# CFK
 <img align="left" height="500" src="./CFK.png">
+
+# CFK
 CFK - short for "Copied from KWGT" and not the reverse of KFC - is just a skin that shows the days and weekdays of the current month in a list.
 
 Someone asked if there's something similar in Rainmeter, obviously there isn't, and because I wanted to dooze off after a lot of school work, I decided to remake it.
